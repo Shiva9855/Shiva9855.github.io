@@ -1,7 +1,16 @@
-hello 
-i am Shiva 
-i am interested in coding 
-branch cse
-section E
-reg no.24103363
+
+HELLO 
+
+I AM SHIVA 
+
+I AM INTERESTED IN CODING 
+
+BRANCH = CSE
+
+SECTION = E
+
+REG NO.24103363
+
 THIS IS MY EXCEL CERTIFICATE 
+
+![IMG_20240723_103547](https://github.com/user-attachments/assets/8f0722e1-5fe9-4cbb-aa42-4ec90c8ccf30)
